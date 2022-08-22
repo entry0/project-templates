@@ -1,3 +1,5 @@
+// main.go - File description.
+
 package main
 
 import (

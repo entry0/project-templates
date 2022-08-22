@@ -1,8 +1,6 @@
 // main.cpp - File description.
 
-#include <string>
-
-using std::string;
+#include <stdio.h>
 
 int main()
 {
